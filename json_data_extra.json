@@ -1,0 +1,216 @@
+{
+  "intents": [
+    {
+      "intent": "HOME",
+      "content": "With over 20 years of technological and operational expertise in self-service kiosks for indoor and outdoor environments, "
+    },
+    {
+      "intent": "HOME",
+      "content": "Barrla Systems has developed a wide range of financial services kiosks starting from a Single Function Table Top Kiosk to a rich Featured Multi-Function Kiosks."
+    }, 
+    {
+      "intent": "HOME",
+      "content": "Now Barrla has put all this experience of dealing with banks to IoT devices and networks resulting in a highly scalable and reliable Barrla IoT Portal."
+    },
+    {
+      "intent": "ABOUT US",
+      "content": "Barrla Systems provides leading self-service technology solutions and is committed for the excellence in Customer Management & Support."
+    }, 
+    {
+      "intent": "ABOUT US",
+      "content": "with a sound financial base and professional management, Barrla Systems always strives to deliver state of the art Quality Products exceeding customer expectations. Our employees’ strengths lie in our professional marketing, sales & support teams who are well trained & experienced.Communicating with Terminals and Service provider Applications in a controlled and secured manner Ability to schedule application patches and terminal configuration downloads to terminals OLTP - Status monitoring with periodical heartbeat checking of terminals up to device level – with SNMP reporting Extensive trace loggings are enabled at terminal, device, service and transaction levels Extensive reports with dynamical filter selections which are available along with Service application level shared reports. Various kinds of dynamic alarms can be set to inform the Terminal, Device and Service level statuses via SMS, emails or Message boards. SSL certificates can be initiated from Central location for each active terminal. Registering, Enabling or disabling the terminals, devices and services can be initiated from the central location for terminal or location wise. "
+    }, 
+    {
+      "intent": "ABOUT US",
+      "content": "Users & Roles are defined centrally and can be applied to Service level management modules."
+    }, 
+    {
+      "intent": "ABOUT US",
+      "content": "Terminal level maintenance and EOD operations can be managed centrally."
+    },
+    {
+      "intent": "WHY US",
+      "content": "Barrla Systems covers a wide range of web based, fully integrated kiosk apps that provide services for banks and financial institutions. "
+    },
+    {
+      "intent": "WHY US",
+      "content": "Barrla kiosks are enabled with one or more electronic devices, which can support a wide range of banking transactions. "
+    },
+    {
+      "intent": "WHY US",
+      "content": "Barrla Kiosks are easy to use, accessible and cost-effective and can connect to secured networks as well IoT networks. IoT can substantially lower communications and infrastructural costs for banks and businesses and allow them to serve their customers across the globe."
+    },
+    {
+      "intent": "SOLUTIONS",
+      "content": [
+        {
+          "subintent": "Kiosks",
+          "content": "Control your devices through simple voice commands."
+        },
+        {
+          "subintent": "Kiosks Portal",
+          "content": "Barrla Kiosks are managed through the Kiosks Terminals Management Portal or KTM portal. This is a web-based, full-featured Terminal Management and Monitoring portal. "
+        },
+        {
+          "subintent": "Kiosks Portal",
+          "content": "The KTM provides complete end-to-end solution with a decoupled architecture and can manage & host multi tenancy services centrally and provides accessibility via the assisted and non assisted terminals."
+        },
+        {
+          "subintent": "Manage Kiosks",
+          "content": "Barrla Systems Management application software allows users to register & manage all kiosks terminals, Configure Services, manage languages & deployment of Advertising screens on the terminals via Cloud. The statuses of terminals can also be changed [Shutdown / Restart / Power off & On] from the Cloud."
+        },
+        {
+          "subintent": "Manage Kiosks",
+          "content": "The statuses of terminals can also be changed [Shutdown / Restart / Power off & On] from the Cloud."
+        },
+        {
+          "subintent": "Monitor Kiosks",
+          "content": "Terminal / Device Statuses are reported via various notifications (like eMail / SMS / Dashboard etc) based on the customized Alarms."
+        },
+        {
+          "subintent": "Monitor Kiosks",
+          "content": "The Monitoring application is scalable and can monitor other terminals that provide information via XFS-SNMP protocol."
+        },
+        {
+          "subintent": "Monitor Kiosks",
+          "content": "Various reports can be configured & shared that can be viewed by respective reporting heads."
+        },
+        {
+          "subintent": "Monitor Kiosks",
+          "content": "Barrla Systems Monitoring application software has a REAL TIME REPORTING dashboard that always keeps track of all registered terminal's statuses from the Kiosks Portal Cloud 24/7."
+        },
+        {
+          "subintent": "BSPL Internet of Things (IoT)",
+          "content": "The rise of the Internet and advances in telecommunication and software services led to the possibilities of connecting every object or thing. "
+        },
+        
+        {
+          "subintent": "BSPL Internet of Things (IoT)",
+          "content": "The Internet of Things is where every Thing is trackable, identifiable and connected. BSPL solutions makes hosting and publishing devices on the Internet both Simple and Easy."
+        },
+        {
+          "subintent": "BSPL Internet of Things (IoT)",
+          "content": "Drawing on many years of experiences gained from hosting Kiosks and financial devices for banks, BSPL is able to provide solutions to host the Internet of Things devices by offering secured and cost effective systems to private and Government organizations across the Globe."
+        }
+      ]
+    },
+    {
+      "intent": "ITMSP",
+      "content": "Modernize your employees experience thru a digitally connected workspace,"
+    }, 
+    {
+      "intent": "ITMSP",
+      "content": "unlock and discover new ways of working."
+    },
+    {
+      "intent": "CLIENTS",
+      "content": "Ongoing basis, and continuously monitor and evaluate their progress as they grow. "
+    },
+    {
+      "intent": "CLIENTS",
+      "content": "We provide self-servicing solutions for various Banks of all sizes around the world."
+    },
+    {
+      "intent": "CLIENTS",
+      "content": "Below are some of the Banks we take pride in calling our clients."
+    },
+    {
+      "intent": "CLIENTS",
+      "content": "they can be sure that their money is always put to the best use."
+    },
+    {
+      "intent": "CLIENTS",
+      "content": "We are committed to building long lasting relationships with all of our Clients."
+    },
+    {
+      "intent": "CLIENTS",
+      "content": "All our solutions involve a cost/benefit analysis in partnership with our clients"
+    },
+    {
+      "intent": "SERVICE LOCATIONS",
+      "content": "We deliver advanced high quality Technologies @ prices that are competitive and well supported on a worldwide basis. "
+
+    },
+    {
+      "intent": "SERVICE LOCATIONS",
+      "content": "Quality First, we strive to keep our solutions and products Simple and Defect free."
+      
+    },
+    {
+      "intent": "SUPPORT",
+      "content": "Barrla Systems provides Professional Services & Support, "
+    },   
+    {
+      "intent": "SUPPORT",
+      "content": "these Service Providers are diverse."
+    },
+    {
+      "intent": "SUPPORT",
+      "content": "They speak many languages and are strategically located to ensure that we can support you whenever you need help."
+    },
+    {
+      "intent": "SUPPORT",
+      "content": "Like our customers"
+    },
+    {
+      "intent": "SUPPORT",
+      "content": "Like our customers"
+    },
+    {
+      "intent": "SUPPORT",
+      "content": "which strongly contributes to its reputation of World Class Services delivered by highly skilled professionals."
+    },
+    {
+      "intent": "SUPPORT",
+      "content": "As the self-servicing industry need grows, so does ours."
+    },
+    {
+      "intent": "SUPPORT",
+      "content": "In order to meet the support needs of our growing customer base,"
+    },
+    {
+      "intent": "SUPPORT",
+      "content": "we have also engaged with a selected group of trusted Support Service Providers."
+    },
+    {
+      "intent": "CONTACT US",
+      "content": "Landline : +91 44 24981112 info@barrlasystems.com"
+    },
+    {
+      "intent": "CONTACT US",
+      "content": "Tamil Nadu, India. "
+    },
+    {
+      "intent": "CONTACT US",
+      "content": "Barrla Systems Pvt Ltd."
+    },
+    {
+      "intent": "CONTACT US",
+      "content": "#2,P.S Sivasami Salai, Mylapore, Chennai - 600 004,"
+    },
+    {
+      "intent": "CONTACT US",
+      "content": "Barrla Systems Pvt Ltd."
+    },
+    {
+      "intent": "NEWS & EVENTS",
+      "content": "New Year Celebration - 2019. "
+    },
+    {
+      "intent": "NEWS & EVENTS",
+      "content": "Barrla Systems Achieves ISO 9001:2015 Certification."
+    },
+    {
+      "intent": "NEWS & EVENTS",
+      "content": "New Year Celebration - 2018.Barrla Systems has successfully completed POC for Aadhaar Seeding to CUB."
+    },
+    {
+      "intent": "NEWS & EVENTS",
+      "content": "Barrla Systems has bagged an order from City Union Bank."
+    },
+    {
+      "intent": "NEWS & EVENTS",
+      "content": "Barrla Systems successfully crosses 500 locations Pan India"
+    }
+  ]
+}
